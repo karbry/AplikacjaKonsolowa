@@ -1,6 +1,6 @@
 # AplikacjaKonsolowa
 Console application c#
 
-Program counts bill for used electricity. There are two types of clients: business and individual (separate classes), different types of tariffs which inherit from main tariff class.
+Program counts bill for used electricity. There are two types of clients: business and individual (separate classes), different types of tariffs which inherit from main tariff class. Every client has different type of tariff. Clients are validated by the client number which is number of array's element. 
 
-Aplikacja konsolowa obliczająca fakturę za zużycie prądu, są dwa typy klientów: biznesowy i indywidualny (osobne klasy). Kazdy klient ma inny cennik, cenniki dziedziczą po klasie "cennik". Alogrytm mnoży zużycie prądu przez stawkę dla danego cennika i dodaje opłaty stałe. 
+ 
